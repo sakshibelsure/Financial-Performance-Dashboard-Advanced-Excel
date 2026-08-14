@@ -1,202 +1,134 @@
-# 📊 Financial Performance & Management Dashboard — Advanced Excel
+# Executive Financial Performance Dashboard (Advanced Excel)
 
-## 📌 Project Overview
+## Project Overview
 
-An advanced Microsoft Excel financial analytics project designed to transform raw financial data into an interactive management dashboard for financial performance monitoring, profitability analysis, budget comparison, and business decision-making.
+This project showcases an interactive Financial Performance & MIS Dashboard developed using Microsoft Excel. It provides management-level insights into revenue performance, profitability, expenses, budget variance, regional performance, product performance, and financial trends.
 
-The project follows an end-to-end analytical workflow:
-
-**Raw Data → Data Cleaning → KPI Calculations → Pivot Analysis → Dashboard**
+The project follows an end-to-end financial reporting workflow from raw data preparation to dashboard visualization.
 
 ---
 
-## 🎯 Business Objective
+## Features
 
-The objective of this project is to create a centralized financial reporting solution that helps management:
-
-- Monitor revenue performance
-- Compare actual revenue against budget
-- Analyze gross profit and net profit
-- Monitor operating and other expenses
-- Evaluate profit margins
-- Identify budget variances
-- Analyze regional and business performance
-- Analyze product and category performance
-- Support data-driven decision making
+- Interactive Financial Dashboard
+- KPI Cards
+- Revenue & Profitability Analysis
+- Budget vs Actual Analysis
+- Budget Variance Analysis
+- Gross Profit & Net Profit Analysis
+- Profit Margin Analysis
+- Expense Analysis
+- Regional Performance Analysis
+- Department Performance Analysis
+- Product & Category Analysis
+- Monthly & Quarterly Financial Analysis
+- Pivot Tables
+- Pivot Charts
+- Data Cleaning & Validation
+- Financial Control Checks
+- Management Reporting
 
 ---
 
-## 🗂️ Workbook Structure
+## Tools Used
+
+- Microsoft Excel
+- Excel Tables
+- Pivot Tables
+- Pivot Charts
+- Advanced Excel Formulas
+- Conditional Formatting
+- Data Validation
+- KPI Development
+- Financial Analysis
+- Dashboard Design
+
+---
+
+## Skills Demonstrated
+
+- Financial Data Analysis
+- Data Cleaning
+- MIS Reporting
+- KPI Development
+- Budget Variance Analysis
+- Profitability Analysis
+- Business Reporting
+- Data Visualization
+- Dashboard Development
+- Advanced Excel
+
+---
+
+## Dashboard Preview
+
+### Financial Performance Dashboard
+
+![Dashboard](Dashboard.png)
+
+### Pivot Analysis
+
+![Pivot Analysis](Pivot_Analysis.png)
+
+### Calculation & KPI Analysis
+
+![Calculation Analysis](Calculation_1.png)
+
+![Detailed Calculation Analysis](Calculation_2.png)
+
+---
+
+## Workbook Structure
 
 | Sheet | Purpose |
 |---|---|
-| Raw Data | Contains the source financial transaction dataset |
-| Data Cleaning | Data validation, standardization and quality checks |
-| Calculation | Financial KPIs and analytical calculations |
-| Pivot Analysis | Multi-dimensional financial analysis using PivotTables |
-| Dashboard | Management-level financial performance reporting |
+| Raw Data | Source financial transaction data |
+| Data Cleaning | Data cleaning and validation |
+| Calculation | KPI and financial calculations |
+| Pivot Analysis | Financial analysis using PivotTables |
+| Dashboard | Executive management dashboard |
 
 ---
 
-## 📊 Key KPIs
+## Key Financial Metrics
 
-The dashboard focuses on:
-
-- Total Revenue
+- Revenue
 - Budget Revenue
 - Revenue Variance
-- Cost of Goods Sold (COGS)
+- COGS
 - Gross Profit
 - Operating Expense
+- Marketing Expense
+- Salary Expense
 - Total Expense
 - Net Profit
 - Profit Margin %
-- Marketing Expense
-- Salary Expense
-- Miscellaneous Expense
 - Net Revenue
 
 ---
 
-## 🔍 Analysis Performed
+## Analytical Workflow
 
-### Financial Analysis
+**Raw Data → Data Cleaning → Calculations → Pivot Analysis → Dashboard**
 
-- Revenue analysis
-- Budget vs actual analysis
-- Revenue variance analysis
-- COGS analysis
-- Gross profit analysis
-- Net profit analysis
-- Profit margin analysis
-- Expense analysis
-
-### Business Analysis
-
-- Regional performance
-- Country and state performance
-- Branch performance
-- Department performance
-- Cost center analysis
-- Product performance
-- Category analysis
-- Sub-category analysis
-
-### Time-Based Analysis
-
-- Monthly performance
-- Quarterly performance
-- Yearly performance
-- Financial performance trends
+This workflow demonstrates an end-to-end approach to financial reporting and management information systems using Microsoft Excel.
 
 ---
 
-## 🧹 Data Cleaning & Validation
+## Business Value
 
-The project includes a dedicated data-cleaning and validation layer to improve reporting accuracy.
-
-Key activities include:
-
-- Data validation
-- Data consistency checks
-- Standardization of business fields
-- Date validation
-- Financial value validation
-- Error checks
-- Control checks
+The dashboard helps management monitor financial performance, evaluate profitability, compare actual results against budget targets, analyze expenses, identify performance trends, and support data-driven business decisions.
 
 ---
 
-## ⚙️ Advanced Excel Techniques
+## Project Type
 
-The project demonstrates practical use of:
-
-- Excel Tables
-- PivotTables
-- Advanced Excel formulas
-- KPI calculations
-- Conditional Formatting
-- Data Validation
-- Financial calculations
-- Variance analysis
-- Profitability analysis
-- Dashboard design
-- Business reporting
+**Advanced Excel | Financial Analysis | MIS Reporting | Dashboard Development**
 
 ---
 
-## 🔄 Analytical Workflow
-
-```text
-Raw Financial Data
-        ↓
-Data Cleaning & Validation
-        ↓
-Financial Calculations
-        ↓
-KPI Development
-        ↓
-PivotTable Analysis
-        ↓
-Dashboard Visualization
-        ↓
-Management Reporting
----
-
-## 🛠️ Tools & Technologies
-
-**Microsoft Excel**
-
-Key areas demonstrated:
-
-- Advanced Excel
-- Financial Analysis
-- MIS Reporting
-- PivotTable Analysis
-- KPI Reporting
-- Data Cleaning
-- Data Validation
-- Dashboard Development
-- Business Reporting
-
----
-
-## 💼 Skills Demonstrated
-
-This project demonstrates skills relevant to:
-
-- MIS Analyst
-- Reporting Analyst
-- Business Analyst
-- Financial Analyst
-- Data Analyst
-
-Core skills:
-
-**Advanced Excel • Financial Analysis • MIS Reporting • Data Visualization • KPI Analysis • Dashboard Development**
-
----
-
-## 📈 Business Value
-
-The dashboard converts detailed financial data into a structured management reporting solution.
-
-It enables users to monitor financial performance, compare actual results with budgets, analyze profitability, evaluate expenses, and identify areas requiring management attention.
-
----
-
-## 🎓 Project Type
-
-**Portfolio Project | Advanced Excel | Financial Analysis | MIS Reporting**
-
----
-
-## 👩‍💻 Author
+## Author
 
 **Sakshi Belsure**
 
 B.Com Graduate | Aspiring MIS / Data / Financial Analyst
-
----
-
-⭐ Thank you for visiting this project.
