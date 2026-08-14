@@ -141,3 +141,62 @@ PivotTable Analysis
 Dashboard Visualization
         ↓
 Management Reporting
+---
+
+## 🛠️ Tools & Technologies
+
+**Microsoft Excel**
+
+Key areas demonstrated:
+
+- Advanced Excel
+- Financial Analysis
+- MIS Reporting
+- PivotTable Analysis
+- KPI Reporting
+- Data Cleaning
+- Data Validation
+- Dashboard Development
+- Business Reporting
+
+---
+
+## 💼 Skills Demonstrated
+
+This project demonstrates skills relevant to:
+
+- MIS Analyst
+- Reporting Analyst
+- Business Analyst
+- Financial Analyst
+- Data Analyst
+
+Core skills:
+
+**Advanced Excel • Financial Analysis • MIS Reporting • Data Visualization • KPI Analysis • Dashboard Development**
+
+---
+
+## 📈 Business Value
+
+The dashboard converts detailed financial data into a structured management reporting solution.
+
+It enables users to monitor financial performance, compare actual results with budgets, analyze profitability, evaluate expenses, and identify areas requiring management attention.
+
+---
+
+## 🎓 Project Type
+
+**Portfolio Project | Advanced Excel | Financial Analysis | MIS Reporting**
+
+---
+
+## 👩‍💻 Author
+
+**Sakshi Belsure**
+
+B.Com Graduate | Aspiring MIS / Data / Financial Analyst
+
+---
+
+⭐ Thank you for visiting this project.
