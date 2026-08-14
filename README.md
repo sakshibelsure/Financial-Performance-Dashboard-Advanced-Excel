@@ -1,37 +1,143 @@
-# 📊 Executive Financial Performance Dashboard (Advanced Excel)
+# 📊 Financial Performance & Management Dashboard — Advanced Excel
 
 ## 📌 Project Overview
-An end-to-end financial analysis and MIS reporting dashboard built in Microsoft Excel. This project processes transactional financial data to track organizational KPIs, variance against budget targets, regional profitability, and product line margins across FY 2025–2026.
+
+An advanced Microsoft Excel financial analytics project designed to transform raw financial data into an interactive management dashboard for financial performance monitoring, profitability analysis, budget comparison, and business decision-making.
+
+The project follows an end-to-end analytical workflow:
+
+**Raw Data → Data Cleaning → KPI Calculations → Pivot Analysis → Dashboard**
 
 ---
 
-## 📸 Dashboard Preview
+## 🎯 Business Objective
 
-![Executive Dashboard](Dashboard.png)
+The objective of this project is to create a centralized financial reporting solution that helps management:
 
----
-
-## 🛠️ Data Architecture & Analytical Workflow
-1. **Raw Data Ingestion:** 1,000+ line items of multi-region operational financial records.
-2. **Data Cleaning & Standardization:** Handled text normalization (`TRIM`, `PROPER`), dynamic fiscal period mapping (`FY`, fiscal quarters), and structured Excel tables (`tbl_FinancialData`).
-3. **Calculation & Audit Controls:**
-   - Real-time audit checks (`PASS`/`FAIL`) for revenue balancing, profit integrity, and budget reconciliation.
-   - Dynamic conditional aggregation using `SUMIFS` and structured table references.
-4. **Pivot Reporting Layer:** Pivot tables segmented by Department, Region, Product Category, and Timeline.
-5. **Executive MIS Dashboard:** Interactive KPI cards, dynamic slicers, variance indicators, and strategic management callouts.
-
----
-
-## 📈 Key Business Metrics Analyzed
-- **Revenue & Profitability:** ₹2.81 Cr Total Revenue, ₹40.49 L Net Profit (13.34% Net Margin).
-- **Budget Performance:** ₹1.05 Cr Budget Variance (96.39% Target Achievement).
-- **Expense Breakdown:** COGS (60.14%), OPEX (9.09%), Salary (7.98%), Marketing (5.70%).
+- Monitor revenue performance
+- Compare actual revenue against budget
+- Analyze gross profit and net profit
+- Monitor operating and other expenses
+- Evaluate profit margins
+- Identify budget variances
+- Analyze regional and business performance
+- Analyze product and category performance
+- Support data-driven decision making
 
 ---
 
-## 💡 Key Excel Formulas & Functions Used
-- **Fiscal Calendar Calculations:** `="Q"&INT(MOD(MONTH(Date)-4,12)/3)+1`
-- **Dynamic Conditional Aggregation:** `SUMIFS()`, `AVERAGEIFS()`, `COUNTA()`
-- **Structured References:** `tbl_FinancialData[Revenue]`, `tbl_FinancialData[Net Profit]`
-- **Audit Controls:** `IF()`, `ISNUMBER()`, Nested Logical Validation Checks
-- **Interactive Visuals:** Dynamic KPI Cards, Slicers, Custom Formatted Variance Charts
+## 🗂️ Workbook Structure
+
+| Sheet | Purpose |
+|---|---|
+| Raw Data | Contains the source financial transaction dataset |
+| Data Cleaning | Data validation, standardization and quality checks |
+| Calculation | Financial KPIs and analytical calculations |
+| Pivot Analysis | Multi-dimensional financial analysis using PivotTables |
+| Dashboard | Management-level financial performance reporting |
+
+---
+
+## 📊 Key KPIs
+
+The dashboard focuses on:
+
+- Total Revenue
+- Budget Revenue
+- Revenue Variance
+- Cost of Goods Sold (COGS)
+- Gross Profit
+- Operating Expense
+- Total Expense
+- Net Profit
+- Profit Margin %
+- Marketing Expense
+- Salary Expense
+- Miscellaneous Expense
+- Net Revenue
+
+---
+
+## 🔍 Analysis Performed
+
+### Financial Analysis
+
+- Revenue analysis
+- Budget vs actual analysis
+- Revenue variance analysis
+- COGS analysis
+- Gross profit analysis
+- Net profit analysis
+- Profit margin analysis
+- Expense analysis
+
+### Business Analysis
+
+- Regional performance
+- Country and state performance
+- Branch performance
+- Department performance
+- Cost center analysis
+- Product performance
+- Category analysis
+- Sub-category analysis
+
+### Time-Based Analysis
+
+- Monthly performance
+- Quarterly performance
+- Yearly performance
+- Financial performance trends
+
+---
+
+## 🧹 Data Cleaning & Validation
+
+The project includes a dedicated data-cleaning and validation layer to improve reporting accuracy.
+
+Key activities include:
+
+- Data validation
+- Data consistency checks
+- Standardization of business fields
+- Date validation
+- Financial value validation
+- Error checks
+- Control checks
+
+---
+
+## ⚙️ Advanced Excel Techniques
+
+The project demonstrates practical use of:
+
+- Excel Tables
+- PivotTables
+- Advanced Excel formulas
+- KPI calculations
+- Conditional Formatting
+- Data Validation
+- Financial calculations
+- Variance analysis
+- Profitability analysis
+- Dashboard design
+- Business reporting
+
+---
+
+## 🔄 Analytical Workflow
+
+```text
+Raw Financial Data
+        ↓
+Data Cleaning & Validation
+        ↓
+Financial Calculations
+        ↓
+KPI Development
+        ↓
+PivotTable Analysis
+        ↓
+Dashboard Visualization
+        ↓
+Management Reporting
